@@ -2,6 +2,21 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+import threeEntryPoint from './threejs/threeEntryPoint';
+import CHeader from "./Header";
+
+
+class Cube extends Component {
+  render() {
+    return (
+      <div>
+      <p> All hail the great cube </p>
+      </div>
+    )
+
+  }
+}
+
 class App extends Component {
   render() {
     return (
@@ -19,6 +34,7 @@ class App extends Component {
           >
             Learn React
           </a>
+          <CHeader/>
         </header>
       </div>
     );
