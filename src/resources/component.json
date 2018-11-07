@@ -1,0 +1,21 @@
+{
+    "title": "Componente hecho con JSON!!",
+    "sections": [
+       {
+          "id": "wzyQEG",
+          "component": "HireMe",
+          "props": {
+             "title": "Test Made by Carlos Mora Ch",
+             "paragraphs": [
+                "Hi guys!, I completed the test, but really wanted to add more things.",
+                "However I was very busy so I was unabled to make a crazy app.",
+                "I think you should hire me !!! hahah I am a good guy and love 3d stuff!!!.  I remember doing crazy UI stuff with PASCAL, yes that old thing!!!, printing squares on screen, changing colors and positions, trying to create cool effects using an old PC.",
+                "HIRE CARLOS MORA !!!",
+                "PD:Use left and right arrows to move camera around cube.",
+                "OOH there is more, please go to the /game folder and open game.htm hahah is an extra for you. "
+             ],
+             "buttonPath": "/cube"
+          }
+       }
+    ]
+ }
